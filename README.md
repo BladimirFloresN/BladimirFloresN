@@ -67,6 +67,16 @@ I'm a Programmer Analyst and Computer Science Engineer. I have knowledge in C#, 
 </span>
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=BladimirFloresN&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/BladimirFloresN)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=BladimirFloresN&theme=material-palenight)](https://github.com/BladimirFloresN)
+<div>
+
+<a href="https://github.com/BladiAFN">
+   <img src="https://github-readme-stats.vercel.app/api?username=BladiAFN&show_icons=true&bg_color=0D1017&border_radius=0&text_color=E8EDF3D5&title_color=E8EDF3&icon_color=E8EDF3&hide_border=false&card_width=414&card_height=195"/>
+</a>
+<a href="https://github.com/BladiAFN">
+      <img alt="Aman's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=BladiAFN&theme=monokai-metallian&border_radius=0&card_width=417&card_height=194&background=0D1017&fire=E8EDF3&currStreakNum=E8EDF3&sideNums=E8EDF3&currStreakLabel=E8EDF3&sideLabels=E8EDF3F0&dates=E8EDF3D5&ring=E8EDF3F0&card_width=400&card_height=195"/>
+</a>
 </div>
+
+
+
+
